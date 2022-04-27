@@ -1,0 +1,2 @@
+* * * * * echo "hello stackoverflow" && php /application/artisan queue:work >> /dev/null 2>&1
+# remember to end this file with an empty new line
